@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace CabInvoiceGeneratorProblem
 {
-    public enum RideType { NORMAL }
+    public enum RideType 
+    { 
+        NORMAL 
+    }
 }
