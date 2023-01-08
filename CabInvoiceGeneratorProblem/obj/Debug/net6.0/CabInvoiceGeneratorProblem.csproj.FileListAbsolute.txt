@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\net6.0\CabInvoiceGeneratorProblem.exe
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\net6.0\CabInvoiceGeneratorProblem.deps.json
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\net6.0\CabInvoiceGeneratorProblem.runtimeconfig.json
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\net6.0\CabInvoiceGeneratorProblem.dll
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\bin\Debug\net6.0\CabInvoiceGeneratorProblem.pdb
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.dll
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\refint\CabInvoiceGeneratorProblem.dll
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.pdb
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\CabInvoiceGeneratorProblem.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CabInvoiceGeneratorProblem\CabInvoiceGeneratorProblem\obj\Debug\net6.0\ref\CabInvoiceGeneratorProblem.dll
